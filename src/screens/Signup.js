@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import Navbar from '../components/Navbar';
 
 const Signup = () => {
     const [credentials, setCredentials] = useState({
@@ -38,9 +39,16 @@ const Signup = () => {
     };
 
     return (
-        <div className='container'>
-            <form onSubmit={handleSubmit}>
-                <div className='mb-3'>
+        <div style={{
+            backgroundImage:
+              'url("https://images.pexels.com/photos/326278/pexels-photo-326278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")',
+            height: '100vh',
+            backgroundSize: 'cover',
+          }}>
+        <Navbar />
+        <div className='container' >
+            <form className="w-50 m-auto mt-5 border bg-dark border-success rounded" onSubmit={handleSubmit}>
+                <div className='m-3'>
                     <label htmlFor='name' className='form-label'>
                         Name
                     </label>
@@ -52,7 +60,7 @@ const Signup = () => {
                         onChange={handleChange}
                     />
                 </div>
-                <div className='mb-3'>
+                <div className='m-3'>
                     <label htmlFor='email' className='form-label'>
                         Email address
                     </label>
@@ -68,7 +76,7 @@ const Signup = () => {
                         We'll never share your email with anyone else.
                     </div>
                 </div>
-                <div className='mb-3'>
+                <div className='m-3'>
                     <label htmlFor='password' className='form-label'>
                         Password
                     </label>
@@ -80,7 +88,7 @@ const Signup = () => {
                         onChange={handleChange}
                     />
                 </div>
-                <div className='mb-3'>
+                <div className='m-3'>
                     <label htmlFor='geolocation' className='form-label'>
                         Address
                     </label>
@@ -99,6 +107,7 @@ const Signup = () => {
                     Already a User
                 </Link>
             </form>
+        </div>
         </div>
     );
 };

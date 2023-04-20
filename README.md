@@ -1,3 +1,14 @@
+Here are some images  showing how the web app looks like
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\homeScreenbeforelogin.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\HomepageAfterLogin.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\signUp.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\Login.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MenuI.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MenuII.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MenuIII.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MyCart.png" width="350" title="hover text">
+    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MyOrders.png" width="350" title="hover text">
+      
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
