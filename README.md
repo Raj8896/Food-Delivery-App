@@ -1,13 +1,13 @@
 Here are some images  showing how the web app looks like
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\homeScreenbeforelogin.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\HomepageAfterLogin.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\signUp.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\Login.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MenuI.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MenuII.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MenuIII.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MyCart.png" width="350" title="hover text">
-    <img src="C:\Users\Raj\Desktop\fooddeliveryapp\MyOrders.png" width="350" title="hover text">
+    <img src="homeScreenbeforelogin.png" width="350" title="hover text">
+    <img src="HomepageAfterLogin.png" width="350" title="hover text">
+    <img src="signUp.png" width="350" title="hover text">
+    <img src="Login.png" width="350" title="hover text">
+    <img src="MenuI.png" width="350" title="hover text">
+    <img src="MenuII.png" width="350" title="hover text">
+    <img src="MenuIII.png" width="350" title="hover text">
+    <img src="MyCart.png" width="350" title="hover text">
+    <img src="MyOrders.png" width="350" title="hover text">
       
 # Getting Started with Create React App
 
