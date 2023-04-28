@@ -20,13 +20,13 @@ Overall, my MERN stack Food Delivery app is  a sophisticated web application tha
 Here are some images  showing how the web app looks like.         
     <img src="homeScreenbeforelogin.png" width="350" title="hover text">
     <img src="HomepageAfterLogin.png" width="350" title="hover text">
-    <img src="signUp.png" width="350" title="hover text">
-    <img src="Login.png" width="350" title="hover text">
-    <img src="MenuI.png" width="350" title="hover text">
-    <img src="MenuII.png" width="350" title="hover text">
-    <img src="MenuIII.png" width="350" title="hover text">
-    <img src="MyCart.png" width="350" title="hover text">
-    <img src="MyOrders.png" width="350" title="hover text">
+    <img src="signUp.png" width="700" title="hover text">
+    <img src="Login.png" width="700" title="hover text">
+    <img src="MenuI.png" width="700" title="hover text">
+    <img src="MenuII.png" width="700" title="hover text">
+    <img src="MenuIII.png" width="700" title="hover text">
+    <img src="MyCart.png" width="700" title="hover text">
+    <img src="MyOrders.png" width="700" title="hover text">
       
 # Getting Started with Create React App
 
