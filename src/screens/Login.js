@@ -89,7 +89,7 @@ export default function Login() {
             Submit
           </button>
 
-          <Link to="/signup" className="m-3 mx-1 btn btn-danger">
+          <Link to="/createuser" className="m-3 mx-1 btn btn-danger">
             New User
           </Link>
         </form>
